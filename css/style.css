@@ -1562,7 +1562,7 @@ label {
 
 .s-about-img img {
   margin-top: 50px;
-  margin-left: 50px;
+  margin-left: auto;
 }
 .about-img {
   margin-left: -50px;
